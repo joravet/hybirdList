@@ -1,4 +1,4 @@
-# 🚀 Hybrid List
+# 🚀 Hybrid List / Bounded Array
 
 > A short tagline that explains what the project does.
 
